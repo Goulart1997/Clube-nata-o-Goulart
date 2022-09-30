@@ -41,5 +41,34 @@ body{
     background-color: aquamarine;
   
 }
+.pos-header{
+    text-align: center;
+}
+.esporte{
+    font-style: italic;
+}
+
+
+
+section h1, h2{
+    font-style: italic;
+    text-align: center;
+    
+}
+.avisos{
+    background-color: red;
+    color: #fff;
+}
+.avisos h2 {
+    margin-top: 125px;
+    font-size: 2em;
+    padding: 30px 0 0 20px;
+}
+.avisos ol li{
+    font-size: 1.5em;
+    line-height: 2;
+    padding: 10px 20px;
+}
+}
 
    
